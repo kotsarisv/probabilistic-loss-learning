@@ -1,0 +1,2 @@
+model,replication,maximum_rhat,minimum_bulk_ess,minimum_tail_ess,divergences,maximum_treedepth_hits
+M4_block_alpha_full_response,5,1.0062341811515596,650.331186754317,1118.652280158939,0,0

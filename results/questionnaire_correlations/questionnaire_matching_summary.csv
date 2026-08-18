@@ -1,0 +1,4 @@
+model,n_model_participants,n_matched_questionnaires
+M3_block_alpha_stickiness,65,65
+M4_block_alpha_full_response,65,65
+M7_single_alpha_full_response,65,65

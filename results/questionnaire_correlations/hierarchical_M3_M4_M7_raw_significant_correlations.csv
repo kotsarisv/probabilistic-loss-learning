@@ -1,0 +1,3 @@
+model,predictor,predictor_label,outcome,n,rho,p_value,trait_family,p_fdr_model,p_fdr_family,raw_significant,family_fdr_significant,model_fdr_significant
+M3_block_alpha_stickiness,suppression,Expressive suppression,alpha_volatile,65,-0.26479500565846575,0.033037080629805364,Emotion regulation,0.735755710136934,0.33037080629805365,TRUE,FALSE,FALSE
+M4_block_alpha_full_response,suppression,Expressive suppression,alpha_volatile,65,-0.26094312360243715,0.035773356050417454,Emotion regulation,0.6373354795065233,0.30224481128588043,TRUE,FALSE,FALSE

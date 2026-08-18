@@ -1,0 +1,28 @@
+# Raw and processed data
+data/
+*.xlsx
+
+# Participant-level outputs
+*participant_parameters.csv
+*parameters_with_questionnaires.csv
+*participant_data.csv
+
+# Fitted model objects
+*.rds
+*.RData
+*.Rhistory
+
+# CmdStan generated files
+*.exe
+*.o
+*.hpp
+*.d
+*.csv.tmp
+
+# RStudio
+.Rproj.user/
+.Ruserdata
+
+# OS files
+.DS_Store
+Thumbs.db

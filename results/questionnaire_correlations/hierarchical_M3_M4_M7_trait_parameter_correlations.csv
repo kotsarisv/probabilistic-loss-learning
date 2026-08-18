@@ -1,0 +1,136 @@
+model,predictor,predictor_label,outcome,n,rho,p_value,trait_family,p_fdr_model,p_fdr_family,raw_significant,family_fdr_significant,model_fdr_significant
+M3_block_alpha_stickiness,anxiety,Attachment anxiety,alpha_stable,65,0.15594170311517233,0.21480799211371637,Attachment,0.735755710136934,0.4825812901024916,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,anxiety,Attachment anxiety,alpha_volatile,65,-0.041601970783323144,0.7421251897741512,Attachment,0.9317561011816297,0.8208327558028642,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,anxiety,Attachment anxiety,beta,65,0.03844897931342918,0.7610644177627732,Attachment,0.9317561011816297,0.8208327558028642,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,anxiety,Attachment anxiety,delta_log_alpha,65,-0.17652373076586905,0.15953449175162904,Attachment,0.735755710136934,0.4825812901024916,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,anxiety,Attachment anxiety,rho,65,-0.10980730709387662,0.3838882214388736,Attachment,0.735755710136934,0.6398137023981226,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,avoidance,Attachment avoidance,alpha_stable,65,0.006649608121048621,0.9580735715212056,Attachment,0.9958611346063815,0.9580735715212056,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,avoidance,Attachment avoidance,alpha_volatile,65,-0.1946979009389927,0.12014596004390679,Attachment,0.735755710136934,0.4825812901024916,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,avoidance,Attachment avoidance,beta,65,0.1529409867841183,0.22387246604000852,Attachment,0.735755710136934,0.4825812901024916,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,avoidance,Attachment avoidance,delta_log_alpha,65,-0.21324680780297042,0.08808804648140957,Attachment,0.735755710136934,0.4825812901024916,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,avoidance,Attachment avoidance,rho,65,0.08609492619884004,0.49529009016428327,Attachment,0.7960019306211695,0.6753955774967498,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,insecurity,Attachment insecurity,alpha_stable,65,0.09652520313682857,0.44433118135567673,Attachment,0.7690347369617482,0.6664967720335151,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,insecurity,Attachment insecurity,alpha_volatile,65,-0.11684054380608859,0.35397806926352005,Attachment,0.735755710136934,0.6398137023981226,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,insecurity,Attachment insecurity,beta,65,0.15250719680023617,0.22520460204782944,Attachment,0.735755710136934,0.4825812901024916,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,insecurity,Attachment insecurity,delta_log_alpha,65,-0.20750513198127918,0.0971951742808523,Attachment,0.735755710136934,0.4825812901024916,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,insecurity,Attachment insecurity,rho,65,0.03761290199260198,0.7661105720826733,Attachment,0.9317561011816297,0.8208327558028642,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,reappraisal,Cognitive reappraisal,alpha_stable,65,-0.06666755820168782,0.597742564654675,Emotion regulation,0.8405754815456368,0.8539179495066787,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,reappraisal,Cognitive reappraisal,alpha_volatile,65,-0.07343506000337031,0.561004280133651,Emotion regulation,0.8143610518069128,0.8539179495066787,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,reappraisal,Cognitive reappraisal,beta,65,-0.003328997650018577,0.9790032742004514,Emotion regulation,0.9958611346063815,0.9790032742004514,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,reappraisal,Cognitive reappraisal,delta_log_alpha,65,-0.11093008616673745,0.37901475985496313,Emotion regulation,0.735755710136934,0.8175063445965933,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,reappraisal,Cognitive reappraisal,rho,65,-0.10420638696571309,0.40875317229829666,Emotion regulation,0.735755710136934,0.8175063445965933,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,suppression,Expressive suppression,alpha_stable,65,-0.0198284383111472,0.8754217754776045,Emotion regulation,0.9958611346063815,0.9790032742004514,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,suppression,Expressive suppression,alpha_volatile,65,-0.26479500565846575,0.033037080629805364,Emotion regulation,0.735755710136934,0.33037080629805365,TRUE,FALSE,FALSE
+M3_block_alpha_stickiness,suppression,Expressive suppression,beta,65,-0.012255988360090984,0.9228079615422913,Emotion regulation,0.9958611346063815,0.9790032742004514,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,suppression,Expressive suppression,delta_log_alpha,65,-0.17449463427679537,0.1644634509174505,Emotion regulation,0.735755710136934,0.65340582898243,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,suppression,Expressive suppression,rho,65,-0.16245750285170601,0.196021748694729,Emotion regulation,0.735755710136934,0.65340582898243,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,maternal_care,Maternal care,alpha_stable,65,-0.12028878568285678,0.33985415802947805,Parental bonding,0.735755710136934,0.7307571026186833,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,maternal_care,Maternal care,alpha_volatile,65,0.007531733213487938,0.9525177236661825,Parental bonding,0.9958611346063815,0.9958611346063815,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,maternal_care,Maternal care,beta,65,0.07796657550357718,0.5370165306870303,Parental bonding,0.8078648916260239,0.7693951348819276,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,maternal_care,Maternal care,delta_log_alpha,65,0.15880134010880237,0.206412913978597,Parental bonding,0.735755710136934,0.7307571026186833,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,maternal_care,Maternal care,rho,65,0.11623828962327751,0.3564814937572356,Parental bonding,0.735755710136934,0.7307571026186833,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,maternal_overprotection,Maternal overprotection,alpha_stable,65,-0.11423330531561776,0.36489392469214044,Parental bonding,0.735755710136934,0.7307571026186833,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,maternal_overprotection,Maternal overprotection,alpha_volatile,65,-0.02267159086340613,0.857733082498233,Parental bonding,0.9958611346063815,0.9958611346063815,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,maternal_overprotection,Maternal overprotection,beta,65,0.002582285445831972,0.9837122226605077,Parental bonding,0.9958611346063815,0.9958611346063815,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,maternal_overprotection,Maternal overprotection,delta_log_alpha,65,0.1106443662214106,0.38025139881957415,Parental bonding,0.735755710136934,0.7307571026186833,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,maternal_overprotection,Maternal overprotection,rho,65,-0.118019198384507,0.3491101532378331,Parental bonding,0.735755710136934,0.7307571026186833,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,paternal_care,Paternal care,alpha_stable,65,0.05997115058417644,0.6351085642890053,Parental bonding,0.8660571331213708,0.8468114190520071,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,paternal_care,Paternal care,alpha_volatile,65,0.1057259452676546,0.4019164064402758,Parental bonding,0.735755710136934,0.7307571026186833,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,paternal_care,Paternal care,beta,65,-0.12387913818700778,0.32552858957633324,Parental bonding,0.735755710136934,0.7307571026186833,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,paternal_care,Paternal care,delta_log_alpha,65,0.0524474176151915,0.6781962053133683,Parental bonding,0.897612624679458,0.8477452566417104,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,paternal_care,Paternal care,rho,65,-6.561395031091514e-4,0.9958611346063815,Parental bonding,0.9958611346063815,0.9958611346063815,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,paternal_overprotection,Paternal overprotection,alpha_stable,65,-0.217337295035806,0.08201993073621694,Parental bonding,0.735755710136934,0.7307571026186833,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,paternal_overprotection,Paternal overprotection,alpha_volatile,65,-0.13222756385120732,0.293724228442343,Parental bonding,0.735755710136934,0.7307571026186833,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,paternal_overprotection,Paternal overprotection,beta,65,0.15255848189453264,0.22504682207391732,Parental bonding,0.735755710136934,0.7307571026186833,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,paternal_overprotection,Paternal overprotection,delta_log_alpha,65,0.07766892156701999,0.5385765944173493,Parental bonding,0.8078648916260239,0.7693951348819276,FALSE,FALSE,FALSE
+M3_block_alpha_stickiness,paternal_overprotection,Paternal overprotection,rho,65,0.0872544351331949,0.4894787783363842,Parental bonding,0.7960019306211695,0.7693951348819276,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,anxiety,Attachment anxiety,alpha_stable,65,0.16349574517845997,0.19314038585702942,Attachment,0.6373354795065233,0.4345658681783162,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,anxiety,Attachment anxiety,alpha_volatile,65,-0.026778531720002215,0.832306535537335,Attachment,0.9487692504056504,0.9115626131348407,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,anxiety,Attachment anxiety,beta,65,0.062052623789440944,0.6233905347090982,Attachment,0.8415772218572827,0.8015021160545549,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,anxiety,Attachment anxiety,delta_log_alpha,65,-0.1744655280007994,0.16453495924825226,Attachment,0.6373354795065233,0.4345658681783162,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,anxiety,Attachment anxiety,rho,65,-0.027895216198922993,0.8254213809400379,Attachment,0.9487692504056504,0.9115626131348407,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,anxiety,Attachment anxiety,side_bias,65,-0.022158523385643697,0.8609202457384606,Attachment,0.9487692504056504,0.9115626131348407,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,avoidance,Attachment avoidance,alpha_stable,65,0.009690053939554405,0.938934098578496,Attachment,0.9984814127129418,0.938934098578496,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,avoidance,Attachment avoidance,alpha_volatile,65,-0.18135493727504645,0.14823907020179392,Attachment,0.6373354795065233,0.4345658681783162,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,avoidance,Attachment avoidance,beta,65,0.16995873388338087,0.17588491067691087,Attachment,0.6373354795065233,0.4345658681783162,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,avoidance,Attachment avoidance,delta_log_alpha,65,-0.20705654761133635,0.09793652766602458,Attachment,0.6373354795065233,0.4345658681783162,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,avoidance,Attachment avoidance,rho,65,0.13399835312349953,0.28724917281698614,Attachment,0.7863980033542551,0.5346162833724322,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,avoidance,Attachment avoidance,side_bias,65,-0.19408543703310663,0.12133919197686635,Attachment,0.6373354795065233,0.4345658681783162,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,insecurity,Attachment insecurity,alpha_stable,65,0.10197032673924594,0.4189355059727271,Attachment,0.7961281511778602,0.6123603353020656,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,insecurity,Attachment insecurity,alpha_volatile,65,-0.09696256246232393,0.44226024216260296,Attachment,0.7961281511778602,0.6123603353020656,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,insecurity,Attachment insecurity,beta,65,0.17500933409697303,0.1632027069105519,Attachment,0.6373354795065233,0.4345658681783162,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,insecurity,Attachment insecurity,delta_log_alpha,65,-0.19910783293176804,0.11181734680300875,Attachment,0.6373354795065233,0.4345658681783162,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,insecurity,Attachment insecurity,rho,65,0.11307925360682838,0.3697904600044847,Attachment,0.7863980033542551,0.6051116618255205,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,insecurity,Attachment insecurity,side_bias,65,-0.13133900544626018,0.29700904631801783,Attachment,0.7863980033542551,0.5346162833724322,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,reappraisal,Cognitive reappraisal,alpha_stable,65,-0.08714527400936788,0.4900243479062548,Emotion regulation,0.8025630218974779,0.7465801458073025,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,reappraisal,Cognitive reappraisal,alpha_volatile,65,-0.08561218298633301,0.4977200972048683,Emotion regulation,0.8025630218974779,0.7465801458073025,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,reappraisal,Cognitive reappraisal,beta,65,-0.024551357668887004,0.8460757145916323,Emotion regulation,0.9487692504056504,0.9984814127129418,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,reappraisal,Cognitive reappraisal,delta_log_alpha,65,-0.11101769136805373,0.37863607568908575,Emotion regulation,0.7863980033542551,0.7465801458073025,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,reappraisal,Cognitive reappraisal,rho,65,-0.1569009155574545,0.2119656669657711,Emotion regulation,0.6373354795065233,0.6358970008973133,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,reappraisal,Cognitive reappraisal,side_bias,65,-0.001686400125338358,0.9893626098867097,Emotion regulation,0.9984814127129418,0.9984814127129418,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,suppression,Expressive suppression,alpha_stable,65,-0.024052377156678555,0.849167043420306,Emotion regulation,0.9487692504056504,0.9984814127129418,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,suppression,Expressive suppression,alpha_volatile,65,-0.26094312360243715,0.035773356050417454,Emotion regulation,0.6373354795065233,0.30224481128588043,TRUE,FALSE,FALSE
+M4_block_alpha_full_response,suppression,Expressive suppression,beta,65,-2.407426285017872e-4,0.9984814127129418,Emotion regulation,0.9984814127129418,0.9984814127129418,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,suppression,Expressive suppression,delta_log_alpha,65,-0.18219839838885257,0.14632976801932443,Emotion regulation,0.6373354795065233,0.5853190720772977,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,suppression,Expressive suppression,rho,65,-0.11409012021634696,0.36549928856414293,Emotion regulation,0.7863980033542551,0.7465801458073025,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,suppression,Expressive suppression,side_bias,65,-0.24376285420480961,0.05037413521431341,Emotion regulation,0.6373354795065233,0.30224481128588043,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,maternal_care,Maternal care,alpha_stable,65,-0.10428385260419491,0.4084030146623956,Parental bonding,0.7961281511778602,0.817569603905278,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,maternal_care,Maternal care,alpha_volatile,65,0.0046854386851349385,0.9704511656378303,Parental bonding,0.9984814127129418,0.9714313968494439,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,maternal_care,Maternal care,beta,65,0.07908319874162335,0.5311839180983807,Parental bonding,0.8025630218974779,0.817569603905278,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,maternal_care,Maternal care,delta_log_alpha,65,0.16688043765466587,0.18395817468858722,Parental bonding,0.6373354795065233,0.817569603905278,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,maternal_care,Maternal care,rho,65,0.08118507777794556,0.5202906393930199,Parental bonding,0.8025630218974779,0.817569603905278,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,maternal_care,Maternal care,side_bias,65,0.18943184814853964,0.13070299308611158,Parental bonding,0.6373354795065233,0.817569603905278,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,maternal_overprotection,Maternal overprotection,alpha_stable,65,-0.07425164845515154,0.5566445071489428,Parental bonding,0.8124000915146732,0.817569603905278,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,maternal_overprotection,Maternal overprotection,alpha_volatile,65,-0.00452994141768829,0.9714313968494439,Parental bonding,0.9984814127129418,0.9714313968494439,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,maternal_overprotection,Maternal overprotection,beta,65,0.024028384911216148,0.8493157397738457,Parental bonding,0.9487692504056504,0.9265262615714679,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,maternal_overprotection,Maternal overprotection,delta_log_alpha,65,0.07834391437354628,0.5350420145983186,Parental bonding,0.8025630218974779,0.817569603905278,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,maternal_overprotection,Maternal overprotection,rho,65,-0.06241252619926089,0.6213736931154338,Parental bonding,0.8415772218572827,0.8255873617505822,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,maternal_overprotection,Maternal overprotection,side_bias,65,-0.1827951722799531,0.1449900138804767,Parental bonding,0.6373354795065233,0.817569603905278,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,paternal_care,Paternal care,alpha_stable,65,0.08028960386378983,0.5249177788721706,Parental bonding,0.8025630218974779,0.817569603905278,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,paternal_care,Paternal care,alpha_volatile,65,0.09695554724276227,0.44229341732103344,Parental bonding,0.7961281511778602,0.817569603905278,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,paternal_care,Paternal care,beta,65,-0.11823633846026908,0.34821789909570156,Parental bonding,0.7863980033542551,0.817569603905278,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,paternal_care,Paternal care,delta_log_alpha,65,0.05076332622387801,0.6879894681254852,Parental bonding,0.8845578875899096,0.8255873617505822,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,paternal_care,Paternal care,rho,65,-0.03186650853433445,0.8010449453889281,Parental bonding,0.9487692504056504,0.9154799375873464,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,paternal_care,Paternal care,side_bias,65,0.18708724365318938,0.13562319889257807,Parental bonding,0.6373354795065233,0.817569603905278,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,paternal_overprotection,Paternal overprotection,alpha_stable,65,-0.20972140754487253,0.09359650408681391,Parental bonding,0.6373354795065233,0.817569603905278,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,paternal_overprotection,Paternal overprotection,alpha_volatile,65,-0.12537764205620106,0.3196646367942425,Parental bonding,0.7863980033542551,0.817569603905278,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,paternal_overprotection,Paternal overprotection,beta,65,0.15673846612087833,0.21244515983550774,Parental bonding,0.6373354795065233,0.817569603905278,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,paternal_overprotection,Paternal overprotection,delta_log_alpha,65,0.07007491881025585,0.5791118027662385,Parental bonding,0.8229483512993916,0.817569603905278,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,paternal_overprotection,Paternal overprotection,rho,65,0.12257639608252437,0.33068160161906424,Parental bonding,0.7863980033542551,0.817569603905278,FALSE,FALSE,FALSE
+M4_block_alpha_full_response,paternal_overprotection,Paternal overprotection,side_bias,65,-0.05460241175252603,0.6657417211135042,Parental bonding,0.8768305595153469,0.8255873617505822,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,anxiety,Attachment anxiety,alpha_general,65,0.021720607903713978,0.8636423182844055,Attachment,0.9525369588912296,0.8969695142166118,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,anxiety,Attachment anxiety,beta,65,0.08340100353351466,0.5089292842125652,Attachment,0.9160727115826174,0.7633939263188478,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,anxiety,Attachment anxiety,rho,65,-0.024567058536257142,0.8459784804295609,Attachment,0.9525369588912296,0.8969695142166118,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,anxiety,Attachment anxiety,side_bias,65,-0.01637803902417143,0.8969695142166118,Attachment,0.9525369588912296,0.8969695142166118,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,avoidance,Attachment avoidance,alpha_general,65,-0.1293830001184296,0.30432414857731904,Attachment,0.7061761220987748,0.5819531186742054,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,avoidance,Attachment avoidance,beta,65,0.17057119778926694,0.17430988149009594,Attachment,0.6275155733643454,0.5819531186742054,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,avoidance,Attachment avoidance,rho,65,0.14388527046137445,0.2528336946681696,Attachment,0.7061761220987748,0.5819531186742054,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,avoidance,Attachment avoidance,side_bias,65,-0.18769831344315205,0.1343276068084898,Attachment,0.6275155733643454,0.5819531186742054,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,insecurity,Attachment insecurity,alpha_general,65,-0.04841567733233766,0.7017267684745151,Attachment,0.9525369588912296,0.8969695142166118,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,insecurity,Attachment insecurity,beta,65,0.19208821575756732,0.12529316946192026,Attachment,0.6275155733643454,0.5819531186742054,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,insecurity,Attachment insecurity,rho,65,0.12038315434260109,0.3394726525599532,Attachment,0.7061761220987748,0.5819531186742054,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,insecurity,Attachment insecurity,side_bias,65,-0.121148533162218,0.33638835524084176,Attachment,0.7061761220987748,0.5819531186742054,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,reappraisal,Cognitive reappraisal,alpha_general,65,-0.07562519003627728,0.5493477240545235,Emotion regulation,0.9330176646820564,0.8789563584872376,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,reappraisal,Cognitive reappraisal,beta,65,-0.035545810434079936,0.7786277589823073,Emotion regulation,0.9525369588912296,0.9525369588912296,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,reappraisal,Cognitive reappraisal,rho,65,-0.16323039135255563,0.19387389867498728,Emotion regulation,0.6344963956635947,0.5169970631332994,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,reappraisal,Cognitive reappraisal,side_bias,65,-0.012965569794809194,0.9183536354041459,Emotion regulation,0.9525369588912296,0.9525369588912296,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,suppression,Expressive suppression,alpha_general,65,-0.20393089203451392,0.10322519085551764,Emotion regulation,0.6275155733643454,0.41290076342207055,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,suppression,Expressive suppression,beta,65,0.00752867856405589,0.9525369588912296,Emotion regulation,0.9525369588912296,0.9525369588912296,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,suppression,Expressive suppression,rho,65,-0.10203110309775744,0.4186568382680895,Emotion regulation,0.7932445356658538,0.837313676536179,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,suppression,Expressive suppression,side_bias,65,-0.22874926846369814,0.06682696829346829,Emotion regulation,0.6275155733643454,0.41290076342207055,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,maternal_care,Maternal care,alpha_general,65,-0.008648356451534115,0.9454882089238748,Parental bonding,0.9525369588912296,0.9454882089238748,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,maternal_care,Maternal care,beta,65,0.06029765485449355,0.6332644426377245,Parental bonding,0.9525369588912296,0.8899057981141003,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,maternal_care,Maternal care,rho,65,0.0717266221144956,0.5701774617501455,Parental bonding,0.9330176646820564,0.8899057981141003,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,maternal_care,Maternal care,side_bias,65,0.17995149791179466,0.1514570341816358,Parental bonding,0.6275155733643454,0.5249681742206618,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,maternal_overprotection,Maternal overprotection,alpha_general,65,-0.02015495674246819,0.8733870793836848,Parental bonding,0.9525369588912296,0.9316128846759304,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,maternal_overprotection,Maternal overprotection,beta,65,0.03553925054263663,0.7786675733498378,Parental bonding,0.9525369588912296,0.8899057981141003,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,maternal_overprotection,Maternal overprotection,rho,65,-0.05713853643277356,0.6511992007233298,Parental bonding,0.9525369588912296,0.8899057981141003,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,maternal_overprotection,Maternal overprotection,side_bias,65,-0.18448022295223326,0.14125659950901867,Parental bonding,0.6275155733643454,0.5249681742206618,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,paternal_care,Paternal care,alpha_general,65,0.1170552873546726,0.3530880610493874,Parental bonding,0.7061761220987748,0.7061761220987748,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,paternal_care,Paternal care,beta,65,-0.138664148323734,0.27064159400341326,Parental bonding,0.7061761220987748,0.7061761220987748,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,paternal_care,Paternal care,rho,65,-0.041752343714512336,0.7412256330009361,Parental bonding,0.9525369588912296,0.8899057981141003,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,paternal_care,Paternal care,side_bias,65,0.17925731224942015,0.15306780667856393,Parental bonding,0.6275155733643454,0.5249681742206618,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,paternal_overprotection,Paternal overprotection,alpha_general,65,-0.19499298144890057,0.11957428032619712,Parental bonding,0.6275155733643454,0.5249681742206618,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,paternal_overprotection,Paternal overprotection,beta,65,0.17466206340557525,0.1640525544439568,Parental bonding,0.6275155733643454,0.5249681742206618,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,paternal_overprotection,Paternal overprotection,rho,65,0.1241520969427175,0.3244553920489799,Parental bonding,0.7061761220987748,0.7061761220987748,FALSE,FALSE,FALSE
+M7_single_alpha_full_response,paternal_overprotection,Paternal overprotection,side_bias,65,-0.04994096337445467,0.692790384849045,Parental bonding,0.9525369588912296,0.8899057981141003,FALSE,FALSE,FALSE

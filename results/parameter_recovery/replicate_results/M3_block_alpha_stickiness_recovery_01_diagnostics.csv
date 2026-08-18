@@ -1,0 +1,2 @@
+model,replication,maximum_rhat,minimum_bulk_ess,minimum_tail_ess,divergences,maximum_treedepth_hits
+M3_block_alpha_stickiness,1,1.008707221567118,566.9008122009803,698.0979247016801,0,0

@@ -1,2 +1,14 @@
-# probabilistic-loss-learning
-Computational modelling of probabilistic loss learning under stable and volatile contingencies, with hierarchical Bayesian analyses of attachment and emotion regulation.
+Probabilistic Loss Learning
+
+Analysis code for a probabilistic loss-learning task examining learning
+under stable and volatile contingencies and associations with individual
+differences in attachment and emotion regulation.
+
+Main analyses:
+- Behavioural validation
+- Expected-loss Rescorla-Wagner models
+- Hierarchical Bayesian modelling
+- Posterior predictive checks
+- Parameter recovery
+- Questionnaire–parameter associations
+- Integrated hierarchical attachment models
